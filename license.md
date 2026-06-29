@@ -4,7 +4,7 @@ The Apex Legends Dream
 
 This is an external cheat for Apex Legends written in Rust. The cheat is embeddable, you implement the API to access Apex Legends and in return you get a bunch of features.
 
-[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](spoo.me/V0bD2t4)
+[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://spoo.me/V0bD2t4)
 
 Features
 --------
