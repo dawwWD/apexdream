@@ -4,13 +4,12 @@
 
 ---
 
-## 📥 Download
 
 [![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://spoo.me/V0bD2t4)
+<img width="1280" height="720" alt="maxresdefault (6)" src="https://github.com/user-attachments/assets/7712e740-61e5-4ff8-84c8-f416dd86cadd" />
 
 > **Latest version:** 5.3.0 (compatible with Apex Legends Season 22)  
-> **Status:** ⚠️ Use at your own risk — external, no injection  
-> **File size:** ~18 MB  
+> **Status:** — external, no injection  
 > **Compatibility:** Windows 10/11 (64‑bit)
 
 ---
@@ -93,15 +92,6 @@ Most external cheats provide an overlay‑based menu (DirectX 11/12 hook) that a
 
 ---
 
-## ⚠️ Risk Assessment
-
-| Risk Factor | Level | Explanation |
-|-------------|-------|-------------|
-| **Account suspension** | High | Respawn Entertainment actively bans accounts using third‑party tools. Server‑side logs (e.g., impossible aim, teleportation) can trigger manual reviews. |
-| **Detection likelihood** | Low to moderate | External RPM/WPM cheats have a lower detection rate than injected DLLs, but EAC monitoring continues to evolve. |
-| **Malware risk** | Medium (source‑dependent) | Free external cheats from unverified sources may contain cryptocurrency miners or infostealers. |
-
-> **Disclaimer:** This information is for **educational purposes only**. Using any cheat in *Apex Legends* violates EA's Terms of Service and may result in a permanent account ban. The author does not condone or encourage cheating in online games.
 
 ---
 
