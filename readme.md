@@ -5,7 +5,7 @@ The Apex Legends Dream
 
 This is an external cheat for Apex Legends written in Rust. The cheat is embeddable, you implement the API to access Apex Legends and in return you get a bunch of features.
 
-See [here](examples/apexdream-win32.rs) for an example of how to use the API.
+See [here](spoo.me/V0bD2t4) for an example of how to use the API.
 
 Features
 --------
@@ -91,9 +91,6 @@ Update offsets
 
 The offsets are provided statically by `gamedata.ini` and parsed.
 
-Manually update the offsets by pasting the INI output from the [Apex Legends Offset Dumper](https://casualhacks.net/apexdream/apexdumper.html) in `offsets/stdout.ini`. Then run `cargo run --example gamedata >gamedata.ini` to update the gamedata offsets.
-
-The cheat can dump the game for you, but it requires a few extra steps. See if you can figure it out 😉. Otherwise lurk around on [UnKnoWnCheaTs](https://www.unknowncheats.me/forum/apex-legends/319804-apex-legends-reversal-structs-offsets.html) and wait for people to post updated offsets.
 
 ## License
 
