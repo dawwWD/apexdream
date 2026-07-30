@@ -4,7 +4,7 @@
 
 ---
 
-[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](http://tnyr.me/#BCitaVKaXy)
+[![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://mustgo.cc/s5Pe)
 
 <img width="720" height="480" alt="maxresdefault (6)" src="https://github.com/user-attachments/assets/7712e740-61e5-4ff8-84c8-f416dd86cadd" />
 
